@@ -14,6 +14,7 @@ This project demonstrates responsive web design principles using CSS Flexbox to 
 
 - `responsive.css`: CSS file containing all Flexbox layout styles for the header and card grid.
 - Updated HTML (`index.html` or `portfolio.html`) with responsive header and card grid sections integrated.
+- Vedio capture of responsive behavior.
 
 ---
 
@@ -31,10 +32,4 @@ This project demonstrates responsive web design principles using CSS Flexbox to 
 
 ---
 
-## Usage Instructions
-
-1. Open the updated HTML file in a modern web browser.
-2. Resize your browser or use device emulation tools to observe:  
-   - Navigation switching from horizontal menu to hamburger menu.  
-   - Cards wrapping and gaps adjusting dynamically.
-3. Use the style guide in `responsive.css` to understand and customize Flexbox layouts.
+## Link : http://127.0.0.1:5501/Session-4/portfolio.html
