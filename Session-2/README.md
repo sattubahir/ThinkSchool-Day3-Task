@@ -44,13 +44,5 @@ This project contains an **accessible signup form** built according to the Sessi
 
 ---
 
-## References
-
-- [MDN HTML Forms Guide](https://developer.mozilla.org/en-US/docs/Learn/Forms)
-- [MDN Accessibility Introduction](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
-- [Using ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
-- [WebAIM: Keyboard Accessibility](https://webaim.org/techniques/keyboard/)
-- [Chrome Lighthouse](https://developers.google.com/web/tools/lighthouse)
-
-
+## Page Link: http://127.0.0.1:5501/Session-2/signup.html
 
